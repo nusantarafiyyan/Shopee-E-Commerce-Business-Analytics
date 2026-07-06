@@ -167,5 +167,5 @@ Harga dan strategi diskon merupakan faktor utama yang mempengaruhi performa penj
 
 ## 👤 Author
 
-**[Nama Kamu]**
+**Rizky Faza Hafiyyan Nusantara**
 Aspiring Business / Data Analyst
